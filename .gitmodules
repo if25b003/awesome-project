@@ -1,3 +1,6 @@
 [submodule "vendor/awesome-module"]
 	path = vendor/awesome-module
 	url = https://github.com/if25b003/awesome-module.git
+[submodule "tree"]
+	path = tree
+	url = https://github.com/if25b003/awesome-tree.git
